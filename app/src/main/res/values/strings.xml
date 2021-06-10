@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Roads to Regensburg</string>
+    <string name="app_title">Auf nach Regensburg</string>
+    <string name="app_description">Dieser Kompass zeigt nicht nur nach Norden, sondern immer auch zur Kugel am Campus in Regensburg</string>
+</resources>
